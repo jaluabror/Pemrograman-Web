@@ -26,7 +26,6 @@ https://getbootstrap.com/docs/5.0/components/according/
     crossorigin="anonymous"/>
     <link rel="stylesheet" href="style.css" />
     <script src="https://kit.fontawesome.com/eb0a858d7d.js" crossorigin="anonymous"></script>
-    
 </head>
 ```
 <body>
@@ -365,5 +364,6 @@ https://getbootstrap.com/docs/5.0/components/according/
     </script>
 </body>
 </html>
+```
 
 ```
