@@ -9,3 +9,7 @@ https://getbootstrap.com/docs/5.0/components/according/
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
 ```
+## Head Syntax
+```
+
+```
