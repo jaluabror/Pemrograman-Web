@@ -60,7 +60,10 @@ https://getbootstrap.com/docs/5.0/components/according/
         
       </div>
     </div>
-  </nav> 
+  </nav>
+```
+## Banner Syntax
+```
   <!-- banner -->
   <div class="container-fluid. banner">
     <div class="container. text-center">
@@ -73,6 +76,7 @@ https://getbootstrap.com/docs/5.0/components/according/
       </a>
     </div>
   </div>
+```
   <!-- Layanan -->
   <div class="container-fuild. Layanan pt-5 pb-5">
     <div class="container. text-center">
