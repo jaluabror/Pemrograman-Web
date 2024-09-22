@@ -347,7 +347,7 @@ https://getbootstrap.com/docs/5.0/components/according/
       </div>
      </div>
 ```
-## Body=>Kontak Sybtax
+## Body=>Kontak Syntax
 ```
      <!-- Kontak -->
      <div class="container-fluid pt-5pb-5 Kontak">
