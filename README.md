@@ -29,6 +29,7 @@ https://getbootstrap.com/docs/5.0/components/according/
     
 </head>
 <body>
+```
 <!-- navigasi -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-lg fixed-top">
     <div class="container">
