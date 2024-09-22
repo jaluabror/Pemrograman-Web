@@ -388,5 +388,3 @@ https://getbootstrap.com/docs/5.0/components/according/
 </body>
 </html>
 ```
-
-```
