@@ -28,7 +28,7 @@ https://getbootstrap.com/docs/5.0/components/according/
     <script src="https://kit.fontawesome.com/eb0a858d7d.js" crossorigin="anonymous"></script>
 </head>
 ```
-## Body Syntax
+## Body=>Navbar Syntax
 ```
 <body>
 <!-- navigasi -->
@@ -62,7 +62,7 @@ https://getbootstrap.com/docs/5.0/components/according/
     </div>
   </nav>
 ```
-## Banner Syntax
+## Body=>Banner Syntax
 ```
   <!-- banner -->
   <div class="container-fluid. banner">
@@ -76,6 +76,8 @@ https://getbootstrap.com/docs/5.0/components/according/
       </a>
     </div>
   </div>
+```
+## Body=>Layanan Syntax
 ```
   <!-- Layanan -->
   <div class="container-fuild. Layanan pt-5 pb-5">
@@ -108,7 +110,10 @@ https://getbootstrap.com/docs/5.0/components/according/
         </div>
       </div>
     </div>
-  </div>  
+  </div>
+```
+## Body=>Portofolio Syntax
+```
   <!-- Portofolio -->
   <div class="container-fluid. Portofolio pt-5 pb-5 bg-light">
     <div class="container text-center">
@@ -230,6 +235,9 @@ https://getbootstrap.com/docs/5.0/components/according/
       </div>
     </div>
   </div>
+```
+## Body=>Tentang Syntax
+```
   <!-- Tentang -->
    <div class="container-fluid. Tentang pt-5 pb-5">
     <div class="container">
@@ -254,7 +262,10 @@ https://getbootstrap.com/docs/5.0/components/according/
         
     </div>
    </div>
-   <!-- Staff and Team -->
+```
+## Body=>Staff 
+```
+<!-- Staff and Team -->
     <div class="container-fluid pt-5 pb-5 bg-light">
       <div class="container text-center">
         <h2 class="display-3" id="Staff">Staff</h2>
@@ -306,6 +317,9 @@ https://getbootstrap.com/docs/5.0/components/according/
         </div>
       </div>
     </div>
+```
+## Body=>Client Syntax
+```
     <!-- client -->
      <div class="container-fluid client pt-5 pb-5">
       <div class="container text-center">
@@ -332,6 +346,9 @@ https://getbootstrap.com/docs/5.0/components/according/
         </div>
       </div>
      </div>
+```
+## Body=>Kontak Sybtax
+```
      <!-- Kontak -->
      <div class="container-fluid pt-5pb-5 Kontak">
       <div class="container">
@@ -361,7 +378,7 @@ https://getbootstrap.com/docs/5.0/components/according/
      <div class="container text-center pt-5 pb-5">
       All Rights Reserved&Copy@1999
      </div>
-
+```
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" 
     integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
