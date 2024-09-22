@@ -28,8 +28,10 @@ https://getbootstrap.com/docs/5.0/components/according/
     <script src="https://kit.fontawesome.com/eb0a858d7d.js" crossorigin="anonymous"></script>
     
 </head>
-<body> 
-  <!-- navigasi     -->
+## Body Navbar Sybtax
+```
+<body>
+<!-- navigasi -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-lg fixed-top">
     <div class="container">
       <a class="navbar-brand" href="#">BE YOURSELF WEB J</a>
