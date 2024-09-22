@@ -1,0 +1,75 @@
+.banner{
+    background: url("https://i.pinimg.com/originals/60/59/a5/6059a518db3d787b4b89a998b92987d6.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 25%;
+    color: #fff;
+
+}
+.Layanan{
+    background: url("https://i.pinimg.com/474x/67/cc/11/67cc11e960fa35fb7c977f21a1221edc.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 25%;
+    color: #fff; 
+}
+.Portofolio{
+    background: url("https://i.pinimg.com/236x/db/03/c0/db03c090f3453aa392e368f65667b6d9.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 25%;
+    color: #000000; 
+}
+.Portofolio h2 {
+    color: #ffffff;
+}
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fbfbfb;
+    background-color: #212529;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 35px;
+}   
+
+.Tentang {
+    background: url("https://i.pinimg.com/474x/6c/94/99/6c9499262d71a618ffcd90c9cafde803.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 25%;
+    color: #000000; 
+}
+
+.staff {
+    width: 380px;
+    border-bottom-style: double;
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: black;
+    line-height: 40px;
+}
+
+.client  img {
+ height: auto;
+ max-height: 45px;
+}
+ 
+.Kontak {
+    background: url(https://i.pinimg.com/originals/60/59/a5/6059a518db3d787b4b89a998b92987d6.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff; 
+}
